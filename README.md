@@ -1,12 +1,12 @@
-## canvastoimage
+## canvas-to-image-jx
 
 
 ## Install
 
-$ npm install canvastoimage --save
+$ npm install canvas-to-image-jx --save
 
 ## Usage
-import canvasToImage from 'canvastoimage';
+import canvasToImage from 'canvas-to-image-jx';
 ```
 canvasToImage.saveAsImage(canvasObj, width, height, type)
 canvasToImage.saveAsPNG(canvasObj, width, height)
